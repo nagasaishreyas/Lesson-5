@@ -1,0 +1,212 @@
+<html>
+    <head> Replit</head>
+    <body>
+        <h1>Signing in details</h1>
+        <label>Username</label><br>
+        <input type="text" id="Name"><br><br>
+        <label>password (this will be hidden)</label><br><br>
+        <input type="password" id="password"><br><br>
+        <label>Conform password (this will be hidden)</label><br><br>
+        <input type="password" id="password"><br><br>
+        
+        <label> Birth of date (date)</label>
+        <select name="date" id="date">
+            <option value="0">0</option>
+            </option>
+            <option value="1">1</option> </option> 
+            <option value="2">2</option>
+            </option>
+            <option value="3">3</option>
+            </option>
+            <option value="4">4</option>
+            </option>
+            <option value="5">5</option>
+            </option>
+            <option value="6">6</option>
+            </option>
+            <option value="7">7</option>
+            </option>
+            <option value="8">8</option>
+            </option>
+            <option value="9">9</option>
+            </option>
+        </select>
+        <select name="date" id="date">
+            <option value="0">0</option>
+            </option>
+            <option value="1">1</option>
+            </option>
+            <option value="2">2</option>
+            </option>
+            <option value="3">3</option>
+            </option>
+            <option value="4">4</option>
+            </option>
+            <option value="5">5</option>
+            </option>
+            <option value="6">6</option>
+            </option>
+            <option value="7">7</option>
+            </option>
+            <option value="8">8</option>
+            </option>
+            <option value="9">9</option>
+            </option>
+            </select><br><br>
+            <label>Month </label>
+            <select name="date" id="date">
+                <option value="0">0</option>
+                </option>
+                <option value="1">1</option>
+                </option>
+                <option value="2">2</option>
+                </option>
+                
+                </option>
+            </select>
+            <select name="date" id="date">
+                <option value="0">0</option>
+                </option>
+                <option value="1">1</option>
+                </option>
+                <option value="2">2</option>
+                </option>
+                <option value="3">3</option>
+                </option>
+                <option value="4">4</option>
+                </option>
+                <option value="5">5</option>
+                </option>
+                <option value="6">6</option>
+                </option>
+                <option value="7">7</option>
+                </option>
+                <option value="8">8</option>
+                </option>
+                <option value="9">9</option>
+                </option>
+                </select><br><br>
+                <label>Year </label>
+                <select name="date" id="date"><option value="0">0</option>
+                </option><option value="1">1</option>
+                </option>
+                <option value="2">2</option></select>
+                <select name="date" id="date">
+                    <option value="0">0</option>
+                    </option>
+                    <option value="1">1</option>
+                    </option>
+                    <option value="2">2</option>
+                    </option>
+                    <option value="3">3</option>
+                    </option>
+                    <option value="4">4</option>
+                    </option>
+                    <option value="5">5</option>
+                    </option>
+                    <option value="6">6</option>
+                    </option>
+                    <option value="7">7</option>
+                    </option>
+                    <option value="8">8</option>
+                    </option>
+                    <option value="9">9</option>
+                    </option>
+                </select>
+                <select name="date" id="date">
+                    <option value="0">0</option>
+                    </option>
+                    <option value="1">1</option>
+                    </option>
+                    <option value="2">2</option>
+                    </option>
+                    <option value="3">3</option>
+                    </option>
+                    <option value="4">4</option>
+                    </option>
+                    <option value="5">5</option>
+                    </option>
+                    <option value="6">6</option>
+                    </option>
+                    <option value="7">7</option>
+                    </option>
+                    <option value="8">8</option>
+                    </option>
+                    <option value="9">9</option>
+                    </option>
+                </select>
+                <select name="date" id="date">
+                    <option value="0">0</option>
+                    </option>
+                    <option value="1">1</option>
+                    </option>
+                    <option value="2">2</option>
+                    </option>
+                    <option value="3">3</option>
+                    </option>
+                    <option value="4">4</option>
+                    </option>
+                    <option value="5">5</option>
+                    </option>
+                    <option value="6">6</option>
+                    </option>
+                    <option value="7">7</option>
+                    </option>
+                    <option value="8">8</option>
+                    </option>
+                    <option value="9">9</option>
+                    </option>
+                </select><br><br>
+                <label> Age </label>
+                <select name="date" id="date">
+                    <option value="0">0</option>
+                    </option>
+                    <option value="1">1</option>
+                    </option></select>
+                <select name="date" id="date">
+                    <option value="0">0</option>
+                    </option>
+                    <option value="1">1</option>
+                    </option>
+                    <option value="2">2</option>
+                    </option>
+                    <option value="3">3</option>
+                    </option>
+                    <option value="4">4</option>
+                    </option>
+                    <option value="5">5</option>
+                    </option>
+                    <option value="6">6</option>
+                    </option>
+                    <option value="7">7</option>
+                    </option>
+                    <option value="8">8</option>
+                    </option>
+                    <option value="9">9</option>
+                    </option>
+                </select><select name="date" id="date">
+                    <option value="0">0</option>
+                    </option>
+                    <option value="1">1</option>
+                    </option>
+                    <option value="2">2</option>
+                    </option>
+                    <option value="3">3</option>
+                    </option>
+                    <option value="4">4</option>
+                    </option>
+                    <option value="5">5</option>
+                    </option>
+                    <option value="6">6</option>
+                    </option>
+                    <option value="7">7</option>
+                    </option>
+                    <option value="8">8</option>
+                    </option>
+                    <option value="9">9</option>
+                    </option>
+                </select>
+                
+                
+            
+</html>
