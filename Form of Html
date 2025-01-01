@@ -1,0 +1,16 @@
+<html>
+    <head>Replit</head>
+    <body>
+        
+            <h1>Your personal details</h1> 
+            
+            <label>Name</label><br>
+            <input type="text" id="Name"><br><br>
+                <label>Email ID</label><br><br>
+                <input type="text" id="email"><br><br>
+                    <label>Contact number  (this will be hidden)</label><br><br>
+                    <input type="password" id="contact number"><br><br>
+                        <label>Gender</label><br>
+                    <input type="radio"  id="female" name="gender" value="female">female
+    </body>
+</html>
